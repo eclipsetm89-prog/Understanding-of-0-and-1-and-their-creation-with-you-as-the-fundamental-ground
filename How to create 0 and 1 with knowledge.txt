@@ -1,0 +1,20 @@
+it explains how 0 and 1 works
+it explains how to create everything after what you need not what it can always give you
+you can modify for specific taskt
+you
+
+and first tthings firtst
+
+make cpu gpu ram and drive work equally using 0-255 with
+
+1-3-6-9-12 bytes
+0 2 4 6 8 10 bytes
+
+so every lane
+every uniqe part of 0-255
+all makes the job equally efficet
+
+with this you can give your table 0-255 power of bytes 
+
+
+i dont know i wont claim it but i thinks somewhere its possible to give machines the ability to understands in the 256 table
